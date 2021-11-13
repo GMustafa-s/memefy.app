@@ -238,7 +238,7 @@ Then, Gradle will do everything for you.
 
 Contributions are always welcome!
 
-See [CONTRIBUTING.md](https://github.com/clubgamma/Random-Meme-Generator-App/blob/main/CONTRIBUTING.md) for ways to get started.
+See [CONTRIBUTING.md](https://github.com/memefy.app/main/CONTRIBUTING.md) for ways to get started.
 
 Please adhere to this project's [Code of Conduct](https://github.com/clubgamma/code-of-conduct).
 
